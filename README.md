@@ -9,6 +9,3 @@ This repository contains the Stateful Price Validator contract (price_validator.
 
 ## Account Creation and Funding
 Code for creating new testnet accounts available here: https://developer.algorand.org/docs/features/accounts/create/#how-to-generate-a-standalone-account. Accounts on the testnet can be funded using the Algorand testnet bank: https://bank.testnet.algorand.network/.
-
-## Confidentiality
-This repository may contain private, confidential, and privileged material. Any review, copying, or distribution of this source code (or any of the discussions therein) by others is strictly prohibited.
