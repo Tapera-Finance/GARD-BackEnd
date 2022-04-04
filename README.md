@@ -5,7 +5,7 @@ This repository contains the Stateful Price Validator contract (price_validator.
 
 ## Deployment 
 1. Fill in the variable 'phrase' in app_setup.py with a 25-word mnemonic for an account with 10 algos on Testnet (see Account Creation and Funding)
-2. Run app_setup.py (Note: If deploying on MainNet, PureStake API endpoints need to be changed over) 
+2. Run app_setup.py 
 
 ## Account Creation and Funding
 Code for creating new testnet accounts available here: https://developer.algorand.org/docs/features/accounts/create/#how-to-generate-a-standalone-account. Accounts on the testnet can be funded using the Algorand testnet bank: https://bank.testnet.algorand.network/.
